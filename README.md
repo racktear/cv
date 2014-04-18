@@ -7,10 +7,10 @@ Currently a DevOps team lead @ Parallels
 
 ## Contact Information
 
-* e-mail: <mail@kn.am>
+* e-mail: <mail@racktear.com>
 * phone: +7 967 095 89 31
-* LinkedIn: [konstantinnazarov](http://www.linkedin.com/in/konstantinnazarov)
-
+* LinkedIn: [racktear](http://www.linkedin.com/in/racktear)
+* Twitter: [@racktear](https://twitter.com/racktear)
 
 ## Expertise
 
