@@ -14,8 +14,10 @@ Currently a DevOps team lead @ Parallels
 
 ## Expertise
 
+* Leadership
 * C++/C
 * Python
+* Public speaking
 * Understanding of OS internals
 * Writing multithreaded and asynchronous code
 * Monitoring (nagios and derivatives)
@@ -25,7 +27,7 @@ Currently a DevOps team lead @ Parallels
 
 ## Work Experience
 
-### DevOps Team Lead at Parallels (1.5 years)
+### DevOps Team Lead at Parallels (2.5 years)
 
 Leading a shared DevOps team responsible for continuous delivery, release cycle and development process automation. The team is servicing 3 separate products:
 
